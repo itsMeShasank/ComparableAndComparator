@@ -1,6 +1,4 @@
-package com.epam.compararble;
-
-import com.epam.compararble.Student;
+package com.epam.comparable;
 
 import java.util.ArrayList;
 import java.util.Collections;

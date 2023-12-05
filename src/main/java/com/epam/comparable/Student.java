@@ -1,4 +1,4 @@
-package com.epam.compararble;
+package com.epam.comparable;
 
 import java.util.Objects;
 
